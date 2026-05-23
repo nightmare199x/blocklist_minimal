@@ -9566,6 +9566,7 @@ ads.brandadvance.co.uk
 ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -14502,8 +14503,6 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -17106,6 +17105,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -20244,7 +20244,6 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
-app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -20579,7 +20578,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27193,7 +27191,6 @@ bo.pizzariaessenzialle.com.br
 bo.zymorico.store
 bo1day.today
 boa.auaesthetics.com
-boa.nolongerset.com
 boannre.com
 boar.hopehollow.com
 boar.indieweb.org
@@ -44547,6 +44544,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -45105,7 +45103,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -46996,7 +46993,6 @@ delayeddisputecommotion.com
 deleb.xyz
 delectable-earth.com
 delete.atea.fi
-delete05032026.shop
 deleteme.intuit.com
 delfamily.net
 delicatecascade.com
@@ -49998,7 +49994,6 @@ droppinglevelspacious.com
 drossesareca.com
 drossesgonidbenches.cfd
 drossswish.cfd
-drosstik.com
 drovs.excelliance.cn
 drownhewchevy.com
 drpep.crossoversymmetry.com
@@ -63667,7 +63662,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -64326,7 +64320,6 @@ goon.ru
 goonsupper.com
 goonutteredconfessed.com
 gooo.al
-goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 goose.accountsjs.com
 goose.markerchase.com
 goose.surfboardpayments.com
@@ -86357,7 +86350,6 @@ load.ggl.mille-et-une-couverture.com
 load.ggl.mille-et-une-nuisette.com
 load.ggl.mio-peluche.it
 load.ggl.moment-cocooning.com
-load.ggl.mon-cartable.com
 load.ggl.mon-maillot-de-bain.com
 load.ggl.mon-mocassin.com
 load.ggl.mon-pendentif.com
@@ -103735,6 +103727,7 @@ nbpczr.icu
 nbqeoezniykhm.space
 nbraenkikrn.com
 nbrngg.rinkaiseminar.co.jp
+nbryb.com
 nbsdi.minisplitsystemsdirect.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
@@ -106526,7 +106519,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -112595,6 +112587,7 @@ p2kdjk34dd.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
+p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -115403,6 +115396,7 @@ ping.instantsearchplus.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.texastribune.org
@@ -116289,6 +116283,7 @@ play.dspunion.com
 play.funspace.fr
 play.leadzu.com
 play.milly-style.co.il
+play.nbryb.com
 play.rooski.net
 play.selectmedia.asia
 play.showheroes.com
@@ -117196,7 +117191,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -126011,7 +126005,6 @@ regio.adup-tech.com
 region.ksapisrv.com
 region1.analytics.google.com
 region1.app-measurement.com
-region1.google-analytics.com
 regionads.ru
 regionalavouchcreeping.com
 regionconfig.amplitude.com
@@ -132143,7 +132136,6 @@ sbna.demdex.net
 sbndcrqwcfkvg.store
 sbninspections.com
 sboehtuuoyggh.space
-sboite.cn
 sbpb1.chuiyue.com
 sbpiu.prospectingondemand.com
 sbplus.hr
@@ -134624,6 +134616,7 @@ serv.marcelemachado.com.br
 serv.matchaao.com
 serv.mccavocat.com
 serv.michaeltrainotti.com.br
+serv.mobi
 serv.modoro360.com
 serv.newsscope.shop
 serv.ntfy.pl
@@ -138035,7 +138028,6 @@ sf.nazs.socdm.com
 sf.schufa.de
 sf.strategicfba.com
 sf.susannas-brautmode.de
-sf.vserv.mobi
 sf01.fastapi.net
 sf1-pitaya-tos.pstatp.com
 sf1-scmcdn-tos.pstatp.com
@@ -139129,7 +139121,6 @@ sgtm.ibb.com
 sgtm.ibix.it
 sgtm.ibixfrance.fr
 sgtm.ibixiberica.es
-sgtm.ibixlatinoamerica.com
 sgtm.ibixperu.com.pe
 sgtm.ibizapremium.ca
 sgtm.icase.com.bd
@@ -157538,6 +157529,7 @@ stape.onovosalario.com.br
 stape.ontheroadstyle.com
 stape.onyxacademy.it
 stape.openviewdigital.com.br
+stape.operacaoblackdiamond.com
 stape.opiniaosa.com.br
 stape.oprofessordanilo.com.br
 stape.optikavizija.lt
@@ -159244,7 +159236,6 @@ static.popcash.net
 static.popmechanic.ru
 static.pops.gg
 static.position-bid.com
-static.postandparcel.info
 static.pppmag.com
 static.premiumads.com.br
 static.pressizeteam.com
@@ -185984,6 +185975,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -187202,6 +187194,7 @@ www.nastyrat.com
 www.naturalmovementz.com
 www.naughtymag.com
 www.navdmp.com
+www.nbryb.com
 www.ncaudienceexchange.com
 www.ncsreporting.com
 www.nearestsalon.com
@@ -190840,7 +190833,6 @@ yebvpc.gardengoodsdirect.com
 yeesshh.com
 yeesshh.xml.ak-is2.net
 yefktd.avito.ru
-yefmicfs.com
 yegvjrkcasiwf.space
 yehrrtjop.com
 yejvecidmfuqe.space
@@ -192124,6 +192116,7 @@ z5cgvvwvwryxyq5j29i4.cfd
 z5ts.icu
 z5x.net
 z5x2v3qi4ex5omyqexwwk93.cfd
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z618.thenewsherald.com
