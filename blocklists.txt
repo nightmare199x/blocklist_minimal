@@ -1534,7 +1534,6 @@
 4.afs.googleadservices.com
 4.grc4lulcygf1mz7.cyou
 4.gukj8k9h8oxi44c.cyou
-4.up.qingdaonews.com
 4.www.cheetahhowevertowardsfrom.com
 4009997658.com
 400bz.com
@@ -3260,7 +3259,6 @@ a.cryto.xyz
 a.csfd.cz
 a.ctasnet.com
 a.ctnsnet.com
-a.cum.giving
 a.cumpilation.video
 a.cylek.site
 a.dangdang.com
@@ -8781,6 +8779,7 @@ adnetworkperformance.com
 adnetworktech.com
 adnetworktracking.com
 adnetwrk.com
+adnety.com
 adnewnc.app.autohome.com.cn
 adnews.maddog2000.de
 adnext.co
@@ -9052,7 +9051,6 @@ adpicmedia.net
 adpies.com
 adping.qq.com
 adpinion.com
-adpionier.de
 adpix.ru
 adplans.info
 adplatform-cdn.baemin.com
@@ -9632,7 +9630,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.corusradionetwork.com
@@ -11274,7 +11271,6 @@ adslvfile.qq.com
 adslvseed.qq.com
 adsm.gameforge.de
 adsmain.g2afse.com
-adsmanagement.atamedyagrubu.com
 adsmarch.online
 adsmarket.com
 adsmarketingfrontend-pa.clients6.google.com
@@ -14500,6 +14496,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
@@ -20242,6 +20239,7 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
+app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -20576,6 +20574,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21554,6 +21553,7 @@ arubdaraqigxc.site
 arullelb.com
 aruoyf.peterhahn.ch
 aruranmbqiyus.store
+arvest-blank.com
 arvigorothan.com
 arvim.monkeywrenchutah.com
 arvister.showheroes.com
@@ -32137,6 +32137,7 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -54572,6 +54573,7 @@ error.ammnlth.net
 error.blue.pl
 error.demdex.net
 error.nextersglobal.com
+error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.videonow.ru
 errorception.com
@@ -64747,6 +64749,7 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -71037,7 +71040,6 @@ hmilk.nuudcare.nl
 hmjyvj.glamira.it
 hmlvxk.julian-fashion.com
 hmma.baidu.com
-hmmxwgvrlvwbh.com
 hmmzscvq.heyharper.com
 hmniv.aroma360.uk
 hmopyfifzomcc.online
@@ -106505,7 +106507,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -115382,6 +115383,7 @@ ping.instantsearchplus.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.texastribune.org
@@ -117176,6 +117178,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -117838,7 +117841,6 @@ presselite.com
 pressingefficiencyincompetence.com
 pressize.com
 pressize.xml-eu.ak-is2.net
-pressizer.net
 presspatron.com
 presssnews.biz
 pressyour.com
@@ -129884,7 +129886,6 @@ s.c-ctrip.com
 s.c.appier.net
 s.caledonenterprise.com
 s.cambridgetimes.ca
-s.camellia1.com
 s.campusfp.es
 s.cancer-risk-calculator.org
 s.cant3am.com
@@ -131785,7 +131786,6 @@ sandboxregister.dnv.com
 sandboxsectrk.dnv.com
 sandboxsectrk.veracity.com
 sandboxsubscribe.dnv.com
-sandboxto370.com
 sandelf.com
 sanders.sanderswellnesslayton.com
 sandhowl.com
@@ -147603,6 +147603,7 @@ souvenirsmascaraearphones.com
 souvenirsrecognize.com
 souvenirsstrew.com
 souvlatraffic.com
+sov.stream
 sovbqlhzoajtw.site
 sovendus-benefits.com
 sovendus-connect.com
@@ -151575,6 +151576,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -157516,6 +157518,7 @@ stape.onovosalario.com.br
 stape.ontheroadstyle.com
 stape.onyxacademy.it
 stape.openviewdigital.com.br
+stape.operacaoblackdiamond.com
 stape.opiniaosa.com.br
 stape.oprofessordanilo.com.br
 stape.optikavizija.lt
@@ -158095,6 +158098,7 @@ stape.ucclacrista.com.br
 stape.uiaraoliveirapedagogico.com.br
 stape.ultimateppf.com.br
 stape.ultimatetaf.com.br
+stape.ultra.karsselcolagen.com
 stape.ultraacademy.site
 stape.ultraprotec.com.br
 stape.umabellavidaflex.com
@@ -159620,7 +159624,6 @@ stats.askmen.com
 stats.asortiz.com
 stats.asp24.pl
 stats.assets.video
-stats.astrr.ru
 stats.autohome.com.cn
 stats.avaaz.org
 stats.avast.com
@@ -177998,7 +178001,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
@@ -185956,6 +185958,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
