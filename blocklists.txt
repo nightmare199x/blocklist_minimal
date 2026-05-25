@@ -4737,7 +4737,6 @@ a8cv.fc-hikaku.net
 a8cv.fc-japan.biz
 a8cv.fc-osoujikakumei.jp
 a8cv.first-spoon.com
-a8cv.fitness-terrace.com
 a8cv.folio-sec.com
 a8cv.folli.jp
 a8cv.follome.motaras.co.jp
@@ -8288,6 +8287,7 @@ adimg.wisenut.co.kr
 adimg1.chosun.com
 adimg3.search.naver.net
 adimgs.sapo.pt
+adimise.com
 adimpact.com
 adimpression.startappservice.com
 adinall.com
@@ -14472,7 +14472,7 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -15368,6 +15368,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17036,6 +17037,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopedia.com
@@ -20158,7 +20160,6 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
-app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -25161,6 +25162,7 @@ beeswax.tapjoy.com
 beetle.enlacepermanente.es
 beetlefreelylong.com
 beetlestaircaselobster.com
+beetraf.ru
 beetrootchaos.com
 beevakum.net
 beewhispering.com
@@ -28350,6 +28352,7 @@ buballmighty.com
 bubasocks-ss.checkoutera.com
 bubbi.ai
 bubblemayflowernephew.com
+bubblesmedia.ru
 bubblestat.com
 bubbly-sound.com
 bubblyaction.com
@@ -31899,7 +31902,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -32026,6 +32028,7 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -32732,14 +32735,12 @@ chancesarmlessimpulse.com
 chandler.megared.buzz
 chanduicimline.com
 changan.bama555.com
-change-now-io.com
 changeable1x.xyz
 changeablecats.com
 changedadroitharassment.com
 changelessbleach.com
 changelesschoir.com
 changelog.freshmarketer.com
-changenow-io.net
 changenow.ing
 changepowder.xyz
 changingemail.com
@@ -33978,6 +33979,7 @@ click.justpremium.com
 click.justwatch.com
 click.kataweb.it
 click.kidslivesafe.com
+click.kmindex.ru
 click.lenovo.com
 click.liftoff.io
 click.linkadx.com
@@ -53942,6 +53944,7 @@ enormousfoot.com
 enormousgrievedsquall.com
 enosblurter.com
 enot.fyi
+enot.k-yroky.ru
 enoughprosperabsorbed.com
 enouncemaggots.cyou
 enowinvict.cyou
@@ -54460,6 +54463,7 @@ error.ammnlth.net
 error.blue.pl
 error.demdex.net
 error.nextersglobal.com
+error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.videonow.ru
 errorception.com
@@ -64621,7 +64625,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -75088,6 +75091,7 @@ inexperiencedunseensuggested.com
 inf-ts.spac.me
 inf-xts.spac.me
 inf.miui.com
+inf.wqa.ru
 infameeagled.com
 infamous-growth.pro
 infamousfine.com
@@ -81080,6 +81084,7 @@ kinoaction.ru
 kinogo-may.vipapi.org
 kinomaniak.pl
 kinoneeloign.com
+kinotraff.ru
 kinott.com
 kinstruments-measurements.s3-external-1.amazonaws.com
 kintg.site
@@ -89428,7 +89433,6 @@ load.vmts.freshstead.com
 load.vmts.spotdif.com
 load.vuipoleru.cmaplaque.fr
 load.water.tapin.gg
-load.wclzhvjb.mohrcelebrations.com
 load.wheels.cyclingspain.com
 load.wheels.rudirides.nl
 load.wol.wolftrack.at
@@ -114958,6 +114962,7 @@ ping.instantsearchplus.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.texastribune.org
@@ -116746,6 +116751,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -125472,7 +125478,6 @@ refpa.top
 refpa18588.com
 refpa32010.com
 refpa37630.com
-refpa4293501.top
 refpa58144.com
 refpabmflm.space
 refpahrwzjlv.top
@@ -135719,6 +135724,7 @@ server.lanzy.com.br
 server.laricasfitness.com
 server.larifarma.com
 server.larissaruncos.com.br
+server.larncer.com
 server.larosabd.com
 server.lasanday.com.br
 server.lazizfoood.com
@@ -148332,7 +148338,6 @@ srv.novobanco.pt
 srv.pixel.parsely.com
 srv.revolucioneducacional.com
 srv.rodomoto.com.br
-srv.saffyro.com
 srv.scubaonline.de
 srv.sebastianpizarro.cl
 srv.sec.miui.com
@@ -151094,7 +151099,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -161308,6 +161312,7 @@ sugs.m.sm.cn
 suhfnjm.com
 suicidalruse.com
 suiformupdrink.cyou
+suijidaohxl.top
 suipqsqihrccz.online
 suitablecondemntin.com
 suitablepartner.life
@@ -169022,6 +169027,7 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -169905,7 +169911,6 @@ trace-proxy.mam.dev
 trace-usa.hungrypanda.co
 trace-v1.free-reels.com
 trace-v5.free-reels.com
-trace.51jingying.com
 trace.ad7.com
 trace.bingoholiday.xyz
 trace.bluemonkey.jp
@@ -183207,6 +183212,7 @@ webts.adac.de
 webttracking.de
 webtuna.com
 webtuneup.avg.com
+webturn.ru
 webtv-sexe.com
 webunder.ru
 webuyanyphone.ojrq.net
@@ -188763,6 +188769,7 @@ xml-v4.adverttise.com
 xml-v4.adxcircle.com
 xml-v4.adxpoint.com
 xml-v4.agilitydigitalmedia.com
+xml-v4.amplifai.it.com
 xml-v4.amtechads.com
 xml-v4.appmonsta.ai
 xml-v4.audienceye.com
@@ -188954,6 +188961,7 @@ xml.affiliate.rakuten.co.jp
 xml.agilitydigitalmedia.com
 xml.aimkweb.com
 xml.alsbuildfordgove.com
+xml.amplifai.it.com
 xml.appmonsta.ai
 xml.aththewindndc.com
 xml.audiencedevelopers.com
