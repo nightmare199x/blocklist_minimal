@@ -9742,7 +9742,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.corusradionetwork.com
@@ -14625,7 +14624,6 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
@@ -15521,7 +15519,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -19645,7 +19642,6 @@ api.so.lianmeng.360.cn
 api.sobot.com
 api.software.seznam.cz
 api.sonobi.com
-api.sophiederam.com
 api.sorellaperfumaria.com.br
 api.sorridents.com.br
 api.sorunapp.com
@@ -20688,7 +20684,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21683,6 +21678,7 @@ as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-pet.ams3.cdn.digitaloceanspaces.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -32268,6 +32264,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -39418,6 +39415,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csectskefti.com
+csengb.manfredijewels.com
 csephkkcdkljz.club
 csf.uzone.id
 csfijhywqxquh.space
@@ -59628,7 +59626,6 @@ fojreuulsyxpi.website
 fokbrd.impo.ch
 folacinamylome.help
 folbwkw.com
-foldclankcelery.com
 folddared.com
 folded.in
 folderappealinformant.com
@@ -64043,6 +64040,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -65929,7 +65927,6 @@ gtm.beiral.com
 gtm.belenergy.com.br
 gtm.bellalotus.com.br
 gtm.bellevueteatret.dk
-gtm.bemprotege.com.br
 gtm.bemsegprotecao.com
 gtm.bendize.com.br
 gtm.benitoceccato.med.br
@@ -79264,7 +79261,6 @@ jhvut.jamesallen.com
 jhvzpcfg.biz
 jhwwtm.idmarket.com
 jhxfplpawtdxv.space
-jhzwle.ryuryumall.jp
 jia183d6v.com
 jiakihtkynvks.today
 jian18.mumu01.com
@@ -99698,7 +99694,6 @@ mini2015.qq.com
 miniapp.bilibili.com
 miniast.com
 miniatelatcher.cfd
-miniature-depression.com
 miniaturereality.pro
 minibilling.com
 minidoc.ru
@@ -117769,6 +117764,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -124741,7 +124737,6 @@ r5---sn-ab5sznz6.c.2mdn.net
 r5---sn-ab5sznzr.c.2mdn.net
 r5---sn-ab5sznzs.c.2mdn.net
 r5---sn-ab5sznzy.c.2mdn.net
-r5---sn-ab5sznzz.c.2mdn.net
 r5---sn-aigl6n6s.c.2mdn.net
 r5---sn-aigl6ned.c.2mdn.net
 r5---sn-aigl6ner.c.2mdn.net
@@ -130523,7 +130518,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -161889,6 +161883,7 @@ stp.memorinhas.com
 stp.mortons.hu
 stp.multi-moteur.com
 stp.netoangel.com
+stp.nowayco.com.br
 stp.nutribarbarasantana.com.br
 stp.nutripalomaquintao.com.br
 stp.omniflora-shop.de
@@ -186913,7 +186908,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -192899,6 +192893,7 @@ z5.cnzz.com
 z5cgvvwvwryxyq5j29i4.cfd
 z5x.net
 z5x2v3qi4ex5omyqexwwk93.cfd
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
