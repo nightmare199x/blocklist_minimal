@@ -1272,6 +1272,7 @@
 2znp09oa.com
 2ztav5r7r.com
 2zxm2pb3q38m2k.cfd
+3-a.net
 3.5646.cn
 3.cjcp.cn
 3.html-load.cc
@@ -10076,7 +10077,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -14896,6 +14896,7 @@ aldazinteaks.cyou
 aldebaranmedia.g2afse.com
 aldehyde06.com
 aldernowerby.cfd
+aldersons.com
 aldidevoiderhisn.cyou
 aldisued.demdex.net
 aldisued.tt.omtrdc.net
@@ -15095,9 +15096,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -21233,7 +21232,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22254,7 +22252,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27906,6 +27903,7 @@ bls.prepareforems.com
 bls.recertforems.com
 bls.scentlok.com
 bls.sponsorcloud.io
+bls.stylemasterhomes.com.au
 bls.tuogear.com
 bls.wildroots.com
 blsenmxeiokcn.space
@@ -33451,7 +33449,6 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -43753,7 +43750,6 @@ danatrak.com
 danbo.org
 dancerstadiumcommonplace.com
 danceryteatswinged.cyou
-dancevalidator.io
 danderpotrero.cyou
 dandieagitato.cfd
 dandiewealful.com
@@ -46057,6 +46053,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -48141,6 +48138,7 @@ ddmuiijrdvv0s.cloudfront.net
 ddmwicctsqjhc.website
 ddnamecauma.com
 ddngtv.pittarello.com
+ddns.info
 ddns.name
 ddoamt.181450.com
 ddogiy.kicksewing.co.kr
@@ -49379,7 +49377,6 @@ dhurrapois.cfd
 dhvarz.fischer.com.br
 dhwmtx.stylewe.com
 dhwnh.com
-dhwusndjyxipsw.com
 dhxbrqtpallzi.site
 dhxnhvawducul.site
 dhy.mybluehost.me
@@ -50789,6 +50786,7 @@ dnrrc.nixxit.com
 dnruxsmbzfubm.website
 dns-bait.com
 dns-clientinfo.vtg.paramount.tech
+dns-dns.com
 dns-finder.com
 dns-test1.hola.org
 dns-tunnel-check.googlezip.net.iberostar.com
@@ -50796,6 +50794,7 @@ dns.0pengl.com
 dns.g8z.net
 dns.jd.com
 dns.weibo.cn
+dns05.com
 dns1.oadz.com
 dns1.stabletransit.com
 dns2.oadz.com
@@ -52761,6 +52760,7 @@ dynad.net
 dynad.website.bg
 dynalyst.jp
 dynamic-ad-server.martechservicenow.com
+dynamic-dns.net
 dynamic-report-api.appsflyersdk.com
 dynamic.3lift.com
 dynamic.aol.com
@@ -52773,6 +52773,7 @@ dynamic2.anandtech.com
 dynamicads.statsperformdev.com
 dynamicadx.com
 dynamicapl.com
+dynamicdns.biz
 dynamicfibroid.cyou
 dynamicmail.optimove.net
 dynamics2efficient.com
@@ -56275,6 +56276,7 @@ ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
 epaaab.com
+epac.to
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -58922,6 +58924,7 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -58929,7 +58932,9 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconsanywiseunmaze.cfd
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -60268,7 +60273,6 @@ filter.adglister.com
 filter.adlunar.com
 filter.admozartppc.com
 filter.adoptimix.com
-filter.adportonic.com
 filter.adquint.com
 filter.adsaay.com
 filter.adsailor.com
@@ -74609,6 +74613,7 @@ https-api.bigolive.tv
 https-apple.com
 https-icloud.com
 https.protected-forms.com
+https443.net
 httpscollector-px8fcgygk4.perimeterx.net
 httpscollector-pxzhh9f9x0.perimeterx.net
 httpsdns.baidu.com
@@ -75600,6 +75605,7 @@ ic-live.com
 ic.adobe.io
 ic.aff-handler.com
 ic.aliyune.xyz
+ic.com
 ic.ksosoft.com
 ic.tynt.com
 ic.wps.cn
@@ -81556,6 +81562,7 @@ jet.zbp.ru
 jet9ku34w9kvgrz.cfd
 jetbudjet.in
 jetengine.be
+jetos.com
 jetour.altosandes.com.pe
 jetpackdigital.com
 jetskiscovers.com
@@ -104698,6 +104705,7 @@ moneyfree.co
 moneygram-nhantien23quoctwe.weebly.com
 moneygram24hh.weebly.com
 moneyhay.net
+moneyhome.biz
 moneymakercdn.com
 moneyoyo.com
 moneyplatform.biz
@@ -105319,6 +105327,7 @@ mr9rxihn18wbh4pqkkjzb6go86.cfd
 mraffiliate.com
 mrarl.kiki.world
 mraza2dosa.com
+mrbasic.com
 mrboldpro-ss.checkoutera.com
 mrbonus.com
 mrbs.cacafly.com
@@ -106731,6 +106740,7 @@ mywedding-beacon.team-rec.jp
 mywondertrip.com
 mywovcjadrtcb.online
 mywow.userecho.com
+mywww.biz
 myxpass.com
 myxuak.mir-kubikov.ru
 myyivaftgefsq.site
@@ -110247,6 +110257,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -115325,6 +115336,7 @@ org-secured.com
 organic-harmony.com
 organic-package.com
 organic.ly
+organiccrap.com
 organicextentbounds.com
 organicowner.com
 organikhit.com
@@ -121274,6 +121286,7 @@ porqhi.topictravel.nl
 porsche-cayman.com
 port.sec.intl.miui.com
 port.sec.miui.com
+port25.biz
 port7.xhamster.com
 port7.xhamster.desi
 port7.xhamster2.com
@@ -121353,7 +121366,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -149663,6 +149675,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -156670,7 +156683,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gatewayvv2lilly-analytics.3.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -159354,6 +159366,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -183582,7 +183595,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
@@ -191827,7 +191839,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -199798,6 +199809,7 @@ zzsqqx.shopjapan.co.jp
 zzt.mybluehost.me
 zzuccikqt.com
 zzuml.nordicware.com
+zzux.com
 zzveirrwywhgc.store
 zzvuvnvgfamfy.online
 zzvvdnorisful.space
