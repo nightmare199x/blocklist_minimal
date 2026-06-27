@@ -394,7 +394,6 @@
 12090cd892.com
 12112336.pix-cdn.org
 12114200.pix-cdn.org
-121synapse.net
 121xpp689.com
 121yscfk5e.com
 123-counter.de
@@ -1821,6 +1820,7 @@
 4fd0jlybx.com
 4fee6d013f.com
 4fptsi5zxo.com
+4fw4gtgnyfpq7cye9k25k8c.cfd
 4fzfc1irq.com
 4g0.cc
 4g0b1inr.de
@@ -3052,7 +3052,6 @@
 9.www.4tr3sopq592o7svp1q6mn3.xyz
 9.www.8vtqw0551lo45wwtro.xyz
 9.www.omomku7r4n3vo55rp5k.xyz
-9001kolix.net
 900bets10.com
 900f44159b.com
 9023cab03a.addf375bbe.com
@@ -10423,7 +10422,6 @@ ads.netsol.com
 ads.networksolutions.com
 ads.networkwcs.net
 ads.newdb.mtp.pl
-ads.newgrounds.com
 ads.newmedia.cz
 ads.newsbook.com.mt
 ads.newsint.co.uk
@@ -11926,7 +11924,6 @@ adsys.townnews.com
 adsyst.ru
 adsystem.pocpoc.io
 adsystem.simplemachines.org
-adsystem.wasu.tv
 adsz.wagbridge.1688.alimama.com
 adsz.wagbridge.tanx.alimama.com
 adsz.wagbridge.taobao.alimama.com
@@ -14972,6 +14969,8 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -15890,6 +15889,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -17744,7 +17744,6 @@ analytics.strangeloopnetworks.com
 analytics.strapi.io
 analytics.strava.com
 analytics.streamgaga.com
-analytics.streamingworld.xyz
 analytics.student.be
 analytics.studiodesignapp.com
 analytics.styria.hr
@@ -21276,7 +21275,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22156,6 +22154,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24630,6 +24629,7 @@ badults.se
 badword.xyz
 baeel.viovet.co.uk
 baeizhplymdyc.site
+baelmemordafalcon.qpon
 baemr.thh-org.se
 baexia.smartbuyglasses.com.hk
 baezlvydomldo.space
@@ -25341,7 +25341,6 @@ bb.bygglet.com
 bb.ebmdas.online
 bb.ladro.com.au
 bb.lekumo.jp
-bb.moynabd.com
 bb.novafon.com
 bb2c68869a.com
 bb2r.com
@@ -33306,6 +33305,7 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -34522,6 +34522,7 @@ chuyentienquoctenhanh.vercel.app
 chuyentienvn.weebly.com
 chvfszwf.internettilbud.dk
 chvfszwf.pricebook.site
+chwshxiyhbjgc.space
 chwyt1hzb.com
 chyeqolaelmpo.site
 chyjobopse.pro
@@ -36164,6 +36165,7 @@ clownfish.philipkiely.com
 clownfish.wrestlingiq.com
 clprfkljfcmnm.site
 clprr.com
+clptdbrmcaxat.online
 clqmmy2lhc2qnfjvyxigxe95wb.cfd
 clrci.canadagoose.com
 clrpdhptoddatj49.pro
@@ -40438,6 +40440,7 @@ cse3.chausport.com
 csebt.bloomist.com
 csectserector.shop
 csectskefti.com
+csengb.manfredijewels.com
 csephkkcdkljz.club
 csf.uzone.id
 csfijhywqxquh.space
@@ -41558,7 +41561,6 @@ d.everprint.co
 d.evilgreed.com
 d.evomarketing.it
 d.ew-ag.ch
-d.exito.fun
 d.exmed.net
 d.fabu-btq.com.ua
 d.feellovecoffee.com
@@ -45872,7 +45874,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -48128,6 +48129,7 @@ decision567.com
 decisionlace.com
 decisionmark.com
 decisionnews.com
+decisive-gas.pro
 decisivebase.com
 decisivedrawer.com
 deck-of-scarlet.pxf.io
@@ -67205,6 +67207,7 @@ grumpkali.com
 grumpydime.com
 grumpydrawer.com
 grumpyhopesucceeding.com
+grundelorewood.cyou
 grundskole-telemetry.services.systime.dk
 grundydidymis.cyou
 grunthjesper.cfd
@@ -73497,6 +73500,7 @@ hohmanrtit.com
 hohnsobered.cfd
 hohosearch.com
 hohuwpdeefdgp.website
+hohxhoennu.com
 hoiao.wooden-ships.com
 hoickpinyons.com
 hoicksfq.xyz
@@ -75610,6 +75614,7 @@ idnzhexoymrlc.space
 idobqo.icu
 idoladelimed.cyou
 idolbucks.com
+idoletmetayerdistale.qpon
 idoletsluices.com
 idolifysaluter.com
 idolinflectiongentlemen.com
@@ -107394,7 +107399,6 @@ network.oliunid.jp
 network.oliunid.se
 network.wintechnology.com
 networkad.nate.com
-networkad.net
 networkadvertising.org
 networkappliance.demdex.net
 networkbench.com
@@ -107875,7 +107879,6 @@ ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
 ngacm.com
-ngads.com
 ngads.go.com
 ngadverts.com
 ngaffn.itokin.net
@@ -109721,6 +109724,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -124684,6 +124688,7 @@ qps.cint.com
 qpsbd.lksneakers.com.br
 qptfdtjasvzmb.site
 qptghqpgmdqhl.online
+qptgssyjfxbs.com
 qptklg.espetoflex.com.br
 qpuajvzdhsmrk.space
 qpufhoviouoby.website
@@ -124726,6 +124731,7 @@ qqkfxyzjdfqfz.online
 qqkwyhcvxntow.website
 qqmcsrexbarfk.site
 qqmhg.drinkag1.com
+qqmqrvhwukgof.website
 qqmtc.shyle.in
 qqmzen.elfadistrelec.no
 qqovdipkzwtjb.site
@@ -131315,6 +131321,7 @@ rliqfusopkcqy.space
 rliwiqr.icu
 rlj.mybluehost.me
 rljwrjeuhszis.site
+rlkgonihsmmsh.online
 rllbu.lovisa.co.uk
 rlmtpmsnojdaa.online
 rlnvbmsxrreot.store
@@ -133550,7 +133557,6 @@ rzoevr.qvc.de
 rzojvqmbqhigv.website
 rzpjyz.pasona.co.jp
 rzpzdlmfkizyv.store
-rzqdqw.com
 rzrnpx.icu
 rzskji.holyart.it
 rzsqfxjdrtdsc.online
@@ -133758,7 +133764,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -134304,7 +134309,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -135909,8 +135913,6 @@ sayinnovation.com
 saymedia.com
 saypuoavofdbi.site
 saytjshyf.biz
-sayyac.com
-sayyac.net
 saz.mybluehost.me
 sb-hip-happy.ourservice.jp
 sb-money.ru
@@ -148880,6 +148882,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -164959,7 +164962,6 @@ sticky-low.com
 stickyadstv.com
 stickylogic.com
 stickynotepark.com
-stiff-hate.com
 stiff-lake.pro
 stiffenshave.com
 stiffgame.com
@@ -165427,6 +165429,7 @@ strangelycontentslantern.com
 strangeremerged.com
 strangineersa.com
 strangleattendeddeed.com
+strangputchuk.shop
 strape.weboldalnet.hu
 stratatransl.cyou
 strataview.co.in
@@ -177269,7 +177272,6 @@ tracking.trutv.com
 tracking.try.chirotech-us.com
 tracking.tuftsmedicine.org
 tracking.turbowinbet.com
-tracking.tuyenquang.gov.vn
 tracking.tv.zing.vn
 tracking.tvet-vietnam.org
 tracking.twelveapp.sh
@@ -182704,7 +182706,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -185791,6 +185792,7 @@ vkscdg.solocruceros.com
 vksy.cn
 vkv.mybluehost.me
 vkwaeo.com
+vkxramtezhgix.online
 vkxyjj.g2a.com
 vkynuspzupokz.website
 vkzkmfqcediaf.site
@@ -192239,7 +192241,6 @@ www.rbp2.ru
 www.rbp2.site
 www.rbp3.ru
 www.rbp63841.ru
-www.rbpark1.site
 www.rbpark2.ru
 www.rbpark3.ru
 www.rbprk91645.ru
@@ -194735,6 +194736,7 @@ xpa.assistant.miui.com
 xpartners.nl
 xpbhflptmrrfj.online
 xpbrqqmdttbyg.space
+xpbxykptzukon.online
 xpcpmr.gsm55.com
 xpdgvlxwn.icu
 xpe3qcqz.xyz
@@ -194849,6 +194851,7 @@ xray-superpixel.com
 xray.jebe.renren.com
 xray.mail.ru
 xrbcmxuzmyfzj.website
+xrbdcvkbhfiw.com
 xrbtfev4hm5r7kk.cfd
 xrcksn.vvf-villages.fr
 xrd.mybluehost.me
@@ -194890,6 +194893,7 @@ xrtb.io
 xrtrdwuttxptw.site
 xrujupffivxxb.space
 xrvsxpthlyyrv.website
+xrwjrnrwfk.com
 xrxalsvtsruem.site
 xrxybn.kotofey-shop.ru
 xrznrtxbswpuk.space
@@ -195533,6 +195537,7 @@ yawningloss.com
 yawsyi.freedomliftsystems.com
 yawuyibzriuzn.space
 yawxae.footpatrol.com
+yaxbsamkhdycw.online
 yaxlek.dandy-house.co.jp
 yaysave.ojrq.net
 yazio-analytics.com
@@ -196453,6 +196458,7 @@ ypituyqsq.biz
 ypj.mybluehost.me
 ypjihx.homemarkt.gr
 ypkado.clicrbs.com.br
+ypklxyjrnovcv.website
 ypm.mybluehost.me
 ypmaztesjxhxn.site
 ypmrjyxltcrra.space
