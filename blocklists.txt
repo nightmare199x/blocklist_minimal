@@ -5593,7 +5593,6 @@ aaa.aqualink.tv
 aaa.com.au
 aaa.novaspiel.com
 aaa.vidox.net
-aaaaaco.com
 aaacompany.net
 aaaconnect.info
 aaafc94b3a37b75ae9cb60afc42e86fe.org
@@ -15027,8 +15026,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -15958,7 +15955,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -21351,7 +21347,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -27091,7 +27086,6 @@ bimongtrowman.com
 bimouecctgacs.store
 bimtrackapp.co
 bin-layer.de
-bin-layer.ru
 bin-tds.site
 binance-kefu.com
 binaqathh.com
@@ -33099,7 +33093,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -65556,7 +65549,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -73456,6 +73448,7 @@ hosting.gemius.hu
 hosting.sproutbuilder.com
 hostingcloud.racing
 hostip.info
+hostiran.name
 hostiserver.com
 hostnetadv.site
 hosts.driver-analytics-web-service.azurewebsites.net
@@ -84185,7 +84178,6 @@ koracity-live.com
 koralivetv.online
 koray-live.com
 koreasaudi.com
-korenizsemi.net
 koreomneity.com
 korexo.com
 korgiejoinyou.com
@@ -92823,7 +92815,6 @@ log.ultimatecleaner.pro
 log.umsns.com
 log.uniconsent.com
 log.uninstallmaster.com
-log.union.ucweb.com
 log.us.adnext.mobi
 log.us.xiaoyi.com
 log.user-clicks.com
@@ -95594,7 +95585,6 @@ mandrill.castingcollective.net
 mandrill.yellowfruit.co
 manduka.com
 manehconule.cfd
-manfys.com
 manga-ninja.com
 mangacoin.net
 manganaexserttomb.qpon
@@ -99011,6 +99001,7 @@ memeorigin.com
 memephimsexhay.com
 memfuqtsmlmyl.site
 memgmknqdaycy.space
+memia.xyz
 memjo.theshoecareshop.com
 memob.com
 memoireetvie.com
@@ -109388,7 +109379,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -120377,7 +120367,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -133116,6 +133105,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -138256,7 +138246,6 @@ server.92projects.com
 server.aalto.care
 server.aamarmarket.com
 server.aasaffashion.com
-server.aasthanaturalsbd.com
 server.abasetraining.com.br
 server.abayana.com
 server.abcgeradores.com.br
@@ -148166,6 +148155,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -151405,7 +151395,6 @@ spareairless.com
 spareapp.com
 sparebank1.demdex.net
 sparefoot.pxf.io
-sparelli.com
 sparersruiner.shop
 sparesofa.com
 spark-dev.ad4game.com
@@ -155104,7 +155093,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -157931,7 +157919,6 @@ sst.snaprentals.co.nz
 sst.snocks.com
 sst.sociagates.com
 sst.soflow.com
-sst.softwareeule.de
 sst.sogafe.net
 sst.sogknives.com
 sst.solarmarkt24.de
@@ -164039,6 +164026,7 @@ stenozpanawoc.website
 step.dk
 step.vrsn.co
 stepcattle.com
+stepe.soulderma.com.br
 stepioserver.citicrow.com
 stepmedieval.com
 stepminorityinept.com
@@ -179103,7 +179091,6 @@ txpbvh.icu
 txqvieufbv19hilhi.rest
 txru.cn
 txsdwcllspdey.website
-txstatic.cn
 txt.ck-qa.circlek.com
 txt.ck.circlek.com
 txt.eu
@@ -189836,6 +189823,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
