@@ -1,6 +1,7 @@
 # Danh sách bộ lọc
 VNM: ABPVN List + AdGuard DNS filter + 1Hosts (Lite) - kích thước nhỏ nhất mà hiệu năng vẫn tương đương so với 3 bộ lọc gốc
 ```
+https://raw.githubusercontent.com/nightmare199x/blocklist_minimal/refs/heads/main/blocklists.txt
 https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists.txt
 ```
 
